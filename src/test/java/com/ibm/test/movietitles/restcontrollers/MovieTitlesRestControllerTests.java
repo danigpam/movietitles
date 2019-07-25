@@ -1,4 +1,4 @@
-package com.ibm.test.moviestitle.restcontrollers;
+package com.ibm.test.movietitles.restcontrollers;
 
 import static org.junit.Assert.assertEquals;
 
