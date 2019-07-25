@@ -13,5 +13,6 @@ To install it:
 
 To run it:
 - Service URL: http://localhost:8080/?substr={substr}
+- Replace localhost with the address of the server the application is running on
 - Replace {substr} with a substring of the movie title. eg. spiderman
 - Expected results will be a list of string with the movie titles sorted in ascending order
