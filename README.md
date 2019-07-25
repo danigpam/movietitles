@@ -8,8 +8,7 @@ Pre-requirements:
 
 To install it:
 - Download the repository
-- Point to the repository folder from comand line terminal and run
-- mvn spring-boot:run
+- Point to the repository folder from comand line terminal and run the command: mvn spring-boot:run
 
 To run it:
 - Service URL: http://localhost:8080/?substr={substr}
