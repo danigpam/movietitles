@@ -15,3 +15,5 @@ To run it:
 - Replace localhost with the address of the server the application is running on
 - Replace {substr} with a substring of the movie title. eg. spiderman
 - Expected results will be a list of string with the movie titles sorted in ascending order
+
+![Example of application running in a local environment](example.png)
