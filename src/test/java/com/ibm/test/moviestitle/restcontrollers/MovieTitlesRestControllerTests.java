@@ -1,4 +1,4 @@
-package com.ibm.test.moviestitle.dataaccess;
+package com.ibm.test.moviestitle.restcontrollers;
 
 import static org.junit.Assert.assertEquals;
 
@@ -6,7 +6,7 @@ import java.util.List;
 
 import org.junit.Test;
 
-import com.ibm.test.moviestitle.restcontrollers.MoviesTitleRestController;
+import com.ibm.test.movietitles.restcontrollers.MoviesTitleRestController;
 
 public class MovieTitlesRestControllerTests {
 

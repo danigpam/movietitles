@@ -1,4 +1,4 @@
-package com.ibm.test.moviestitle.dataaccess;
+package com.ibm.test.movietitles.dataaccess;
 
 import static org.junit.Assert.assertEquals;
 
@@ -9,8 +9,9 @@ import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.client.RestTemplate;
 
-import com.ibm.test.moviestitle.model.Movie;
-import com.ibm.test.moviestitle.model.MovieQueryResponse;
+import com.ibm.test.movietitles.dataaccess.MovieDAOImpl;
+import com.ibm.test.movietitles.model.Movie;
+import com.ibm.test.movietitles.model.MovieQueryResponse;
 
 public class MovieDAOTests {
 
